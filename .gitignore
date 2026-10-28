@@ -1,0 +1,10 @@
+.pio/
+.vscode/
+.test-build/
+__pycache__/
+*.pyc
+/led-controller-tests
+/led-controller-tests.exe
+*.code-workspace
+Thumbs.db
+.DS_Store
